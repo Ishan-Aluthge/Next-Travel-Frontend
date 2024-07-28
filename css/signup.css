@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Kenia&family=Poppins:wght@500&display=swap');
+
+body{
+    background-color: lightblue;
+}
+
+#header{
+    font-weight: bolder;
+    color: darkcyan;
+    margin-top: 1rem;
+    margin-left: 27rem;
+    padding-bottom: 3rem;
+}
+
+#signupform{
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,102 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kenia&family=Poppins:wght@500&display=swap');
+
+
+.flexBox{
+    margin-top: 1rem;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    margin-top: 1rem;
+    display: inline-block;
+    padding: .8rem 3rem;
+    font-size: 1.7rem;
+    color:white;
+    background: lightseagreen;
+    border-radius: .5rem;
+    cursor: pointer;
+}
+
+.btn:hover{
+    letter-spacing: .3rem;
+}
+
+.overlay-text {
+    position: absolute;
+    text-align: center;
+    left: 50%;
+    margin-bottom: 5rem;
+    transform: translateX(-50%);
+    color: white;
+    font-family: "Tilt Warp", serif;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.flexBox>img{
+
+    border-radius: 40px;
+    width: 1320px;
+    height: 95vh;
+
+}
+h5{
+
+    margin-top: 3rem;
+
+}
+h5>a{
+
+    text-decoration: none;
+    color: #ebe4e4;
+    font-size: 1.5rem;
+}
+h5>a:hover{
+    color: #65bfd4;
+    text-decoration: underline;
+}
+.text{
+    font-family: "Tilt Warp", serif;
+    font-size: 1.5rem;
+}
+#logo{
+    width: 500px;
+    height: 200px;
+}
+.fdc{
+    flex-direction: column;
+}
+#username,#password{
+    width: 20vw;
+    border-radius: 10px;
+    margin-top: 2rem;
+
+}
+.formContainer{
+    margin-top: 3rem;
+}
+
+#loginForm h1{
+    font-size: 60px;
+    font-weight: bolder;
+}
+#loginForm h2{
+    font-size: 55px;
+    font-weight: bold;
+}
+#loginForm h2 span{
+    font-size: 70px;
+    font-weight: bolder;
+    color: aqua;
+}
+
+
+
+
+
+
+
+
